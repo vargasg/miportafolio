@@ -1,0 +1,38 @@
+
+header{
+background-image: url('./img/desarrollo.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+  padding-bottom: 10rem;
+  font-family: 'Oswald', sans-serif;
+  color:#F5B041;
+}
+
+.subtitulo , h1 {
+  font-family: 'Dancing Script', cursive;
+  color:#E0F2F1;
+}
+
+.fuente {
+    font-family: 'Dancing Script', cursive;
+}
+
+.naving {
+  font-family: 'Dancing Script', cursive;
+  color: #E0F2F1;
+  background-color: #000000;
+}
+
+.fondo {
+  background-color: #FDFEFE;
+}
+
+body {
+  background-color: #000000;
+}
+
+.cuppon{
+  width: 1336px;
+  height: 600px;
+}
