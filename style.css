@@ -36,3 +36,27 @@ body {
   width: 1336px;
   height: 600px;
 }
+
+.row {
+  width:auto;
+  margin:auto;
+  margin-bottom: 2em;
+  margin-left: auto;
+}
+
+span{
+    font-family: 'Dancing Script', cursive;
+}
+
+ul{
+    font-family: 'Dancing Script', cursive;
+}
+
+p{
+    font-family: 'Dancing Script', cursive;
+    font-size: 20px;
+}
+
+h2,h4,button{
+    font-family: 'Dancing Script', cursive;
+}
